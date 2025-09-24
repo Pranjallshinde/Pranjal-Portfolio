@@ -29,8 +29,8 @@ export default function Certificates() {
     },
     {
       icon: Award,
-      title: "Digital Marketing Fundamentals",
-      description: "Certification on SEO, SEM, and Social Media Marketing basics.",
+      title: "Gen AI",
+      description: "Certification of Google Cloud Computing Foundations",
       highlighted: false,
       link: "https://example.com/certificate3",
     },
