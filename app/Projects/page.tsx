@@ -31,7 +31,7 @@ export default function PortfolioPage() {
       technologies: ["HTML", "CSS", "JS", "Node.js", "React.js", "MongoDB"],
     },
     {
-      image: "/ML.png",
+      image: "/Social-Media-Addiction-thumbnail.jpg",
       title: "Social Media Impact on Mental Health",
       description:
         "Built a machine learning model to analyze the impact of social media usage on mental health by processing responses to assess whether individuals may need professional support.",
